@@ -1,10 +1,13 @@
-var search = function(nums, target) {
-    for(let i = 0; i < nums.length; i++){
-        if(target === nums[i]){
-            console.log(i)
-            return i;
-        }
-    }  
 
-    return -1;
-};
+var search = function(nums, target){
+    let map = new Map();
+
+    for(let i = 0; i < nums.length; i++){
+        map.set(nums[i], i);
+    }
+    if(map.has(target)){
+        return map.get(target);
+    } else {
+        return -1;
+    }
+}
