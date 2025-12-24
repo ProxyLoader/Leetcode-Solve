@@ -38,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
