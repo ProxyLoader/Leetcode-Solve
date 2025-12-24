@@ -1,0 +1,11 @@
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isPowerOfFour = function(n) {
+    if(n <= 0) return false;
+    let expression = (Math.log(n) / Math.log(4));
+    if(expression.toString().includes(".")) return false;
+
+    return true;
+};
