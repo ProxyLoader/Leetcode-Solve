@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0342-power-of-four) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1806-count-of-matches-in-tournament](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1806-count-of-matches-in-tournament) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
+| [1806-count-of-matches-in-tournament](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1806-count-of-matches-in-tournament) |
 ## Dynamic Programming
 |  |
 | ------- |
