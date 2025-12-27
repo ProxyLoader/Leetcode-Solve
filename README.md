@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1806-count-of-matches-in-tournament) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
