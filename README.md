@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Two Pointers
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
