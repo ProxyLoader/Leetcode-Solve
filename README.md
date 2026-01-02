@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
