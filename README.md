@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0367-valid-perfect-square) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1806-count-of-matches-in-tournament) |
