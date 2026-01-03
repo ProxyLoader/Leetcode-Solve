@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
