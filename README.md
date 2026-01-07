@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Binary Search
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +127,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
