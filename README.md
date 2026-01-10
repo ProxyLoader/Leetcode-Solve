@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0504-base-7](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0742-to-lower-case) |
 | [1542-consecutive-characters](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1542-consecutive-characters) |
 ## Bit Manipulation
 |  |
