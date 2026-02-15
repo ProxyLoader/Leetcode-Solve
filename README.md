@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0792-binary-search](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
