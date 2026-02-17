@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0347-top-k-frequent-elements) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0383-ransom-note) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
