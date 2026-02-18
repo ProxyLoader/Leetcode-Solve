@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0137-single-number-ii) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
