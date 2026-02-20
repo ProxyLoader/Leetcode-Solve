@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0338-counting-bits) |
@@ -228,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
