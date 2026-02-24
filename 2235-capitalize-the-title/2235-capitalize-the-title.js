@@ -3,27 +3,17 @@
  * @return {string}
  */
 var capitalizeTitle = function (title) {
-  let array = title.split(" ");
-  let stringBuilder = "";
-  let isF = false;
-  for (let i = 0; i < array.length; i++) {
-    isF = false;
-    stringBuilder += " ";
+    const array = title.toLowerCase().split(" ");
+    const capital = [];
 
-    for (let j = 0; j < array[i].length; j++) {
-      if (array[i].length <= 2) {
-        stringBuilder += array[i][j].toLowerCase();
-        continue;
-      }
 
-      if (isF === false) {
-        stringBuilder += array[i][j].toUpperCase();
-        isF = true;
-      } else {
-        stringBuilder += array[i][j].toLowerCase();
-      }
+    for(const word of array){
+        if(word.length <= 2){
+            capital.push(word);
+        } else {
+            capital.push(word[0].toUpperCase() + word.slice(1).toLowerCase());
+        }
     }
-  }
 
-  return stringBuilder.trim();
+  return capital.join(" ")
 };
