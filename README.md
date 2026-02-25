@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0367-valid-perfect-square) |
