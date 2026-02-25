@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0792-binary-search](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0782-jewels-and-stones) |
+| [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -252,14 +254,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0535-encode-and-decode-tinyurl) |
+| [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0535-encode-and-decode-tinyurl) |
+| [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
