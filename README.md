@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2048-build-array-from-permutation) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
