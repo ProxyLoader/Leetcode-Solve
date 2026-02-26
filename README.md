@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0225-implement-stack-using-queues) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Quickselect
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
