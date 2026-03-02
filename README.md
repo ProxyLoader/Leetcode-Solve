@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1542-consecutive-characters) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2235-capitalize-the-title](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
