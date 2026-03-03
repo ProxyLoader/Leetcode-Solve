@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3194-find-words-containing-character](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2235-capitalize-the-title](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
+| [3194-find-words-containing-character](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
