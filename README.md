@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0504-base-7) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
