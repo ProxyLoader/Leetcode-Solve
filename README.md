@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1823-determine-if-string-halves-are-alike) |
