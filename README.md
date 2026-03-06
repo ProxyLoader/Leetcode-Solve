@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
