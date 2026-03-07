@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2341-count-prefixes-of-a-given-string) |
