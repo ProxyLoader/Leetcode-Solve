@@ -8,6 +8,5 @@ var searchRange = function(nums, target) {
             last = i; 
         }
     }
-
     return [first, last];
 };
