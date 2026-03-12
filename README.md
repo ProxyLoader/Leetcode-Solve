@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1205-defanging-an-ip-address) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1542-consecutive-characters](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0657-robot-return-to-origin) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1806-count-of-matches-in-tournament](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
