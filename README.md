@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
