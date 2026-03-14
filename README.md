@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1630-count-odd-numbers-in-an-interval-range) |
