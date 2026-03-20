@@ -10,7 +10,6 @@ var permute = function(nums) {
             results.push([...paths])
             return;
         }
-
         for(let i = 0; i < nums.length; i++){
             if(used[i]) continue;
             used[i] = true;
