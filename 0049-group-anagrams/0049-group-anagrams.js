@@ -12,6 +12,5 @@ var groupAnagrams = function(strs) {
             hash[sortedArray[i]].push(strs[i])
         }
     }
-
     return Object.values(hash)
 };
