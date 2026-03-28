@@ -5,11 +5,9 @@ var searchMatrix = function (matrix, target) {
 
     while (left <= right) {
       let middle = Math.floor((left + right) / 2);
-
       if (matrix[i][middle] === target) {
         return true;
       }
-
       if (target > matrix[i][middle]) {
         left = middle + 1;
       } else {
@@ -17,6 +15,5 @@ var searchMatrix = function (matrix, target) {
       }
     }
   }
-
   return false;
 };
