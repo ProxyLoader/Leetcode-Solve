@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0822-unique-morse-code-words) |
 | [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
