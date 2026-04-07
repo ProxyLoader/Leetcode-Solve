@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0724-find-pivot-index](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0817-design-hashmap) |
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
