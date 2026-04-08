@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Sorting
 |  |
 | ------- |
