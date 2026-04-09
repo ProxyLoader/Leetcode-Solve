@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4252-first-unique-even-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/4252-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4252-first-unique-even-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/4252-first-unique-even-element) |
 ## Counting
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1848-sum-of-unique-elements) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2427-first-letter-to-appear-twice) |
+| [4252-first-unique-even-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/4252-first-unique-even-element) |
 ## Queue
 |  |
 | ------- |
