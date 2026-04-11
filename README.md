@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3321-type-of-triangle) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4252-first-unique-even-element](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/4252-first-unique-even-element) |
 ## Two Pointers
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3321-type-of-triangle](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3321-type-of-triangle](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ProxyLoader/Leetcode-Solve/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
